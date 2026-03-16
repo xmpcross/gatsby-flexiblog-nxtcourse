@@ -4,5 +4,8 @@
   "main": "index.js",
   "private": true,
   "author": "ElegantStack Team",
-  "license": ""
+  "license": "",
+  "dependencies": {
+    "mkdirp": "^1.0.4"
+  }
 }
