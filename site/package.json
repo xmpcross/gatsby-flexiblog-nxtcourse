@@ -3,11 +3,11 @@
 	"private": true,
 	"version": "4.0.0",
 	"scripts": {
-		"develop": "DEBUG= gatsby develop",
-		"start": "DEBUG= gatsby develop",
-		"build": "DEBUG= gatsby build",
-		"clean": "DEBUG= gatsby clean",
-		"serve": "DEBUG= gatsby serve"
+		"develop": "gatsby develop",
+		"start": "gatsby develop",
+		"build": "gatsby build",
+		"clean": "gatsby clean",
+		"serve": "gatsby serve"
 	},
 	"dependencies": {
 		"@elegantstack/gatsby-theme-flexiblog-science": "*",
