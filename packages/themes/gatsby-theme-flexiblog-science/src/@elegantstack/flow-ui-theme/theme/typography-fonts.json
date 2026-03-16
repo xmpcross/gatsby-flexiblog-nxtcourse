@@ -2,13 +2,13 @@
   "fonts": {
     "google": {
       "families": [
-        "Libre Baskerville:400,700,900",
-        "Hind:400,i400,600,700&display=swap"
+        "Urbanist:400,500,600,700,800&display=swap",
+        "Outfit:300,400,500,600,700&display=swap"
       ]
     }
   },
   "theme": {
-    "headerFontFamily": ["Libre Baskerville", "sans-serif"],
-    "bodyFontFamily": ["Hind", "sans-serif"]
+    "headerFontFamily": ["Urbanist", "sans-serif"],
+    "bodyFontFamily": ["Outfit", "sans-serif"]
   }
 }

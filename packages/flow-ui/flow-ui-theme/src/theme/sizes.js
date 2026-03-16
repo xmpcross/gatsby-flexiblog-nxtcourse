@@ -5,7 +5,7 @@ export default {
     md: 48,
     lg: 64
   },
-  container: 1140,
+  container: 1366,
   wide: 1600,
   '1/2': '50%',
   '1/3': '33.333333%',
